@@ -1,0 +1,50 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f8f9fa;
+}
+
+.landing-page {
+    text-align: center;
+    padding: 50px;
+}
+
+header {
+    margin-bottom: 30px;
+}
+
+h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+}
+
+.position-name {
+    color:black;
+    font-size: 1.2em;
+}
+
+
+p {
+    font-size: 1.2em;
+    color:black;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: white;
+}
+
+    button:hover {
+        background-color: #0056b3;
+    }

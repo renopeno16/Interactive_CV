@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV en Français</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="cv">
+        <header>
+            <h1>Renzo Pellegrino</h1>
+            <p>Email: renzopel@hotmail.com | Téléphone: (514) 653-1619</p>
+        </header>
+        <section id="experience">
+            <h2 onclick="toggleSection('experienceContent')">Expérience</h2>
+            <div id="experienceContent" class="collapsible">
+                <p><strong>Développeur Logiciel chez Tech Solutions Inc.</strong></p>
+                <p>Juin 2018 - Présent</p>
+                <ul>
+                    <li>Développé et maintenu des applications web en utilisant JavaScript, HTML, et CSS.</li>
+                    <li>Collaboré avec des équipes multifonctionnelles pour concevoir de nouvelles fonctionnalités et améliorer l'expérience utilisateur.</li>
+                    <li>Implémenté un design responsive pour assurer la compatibilité sur différents appareils et navigateurs.</li>
+                </ul>
+                <p><strong>Développeur Junior chez Creative Minds Studio</strong></p>
+                <p>Janvier 2016 - Mai 2018</p>
+                <ul>
+                    <li>Aide au développement et aux tests de nouvelles applications logicielles.</li>
+                    <li>Travaillé en étroite collaboration avec des développeurs seniors pour déboguer et améliorer le code existant.</li>
+                    <li>Participé aux revues de code et fourni des retours constructifs aux membres de l'équipe.</li>
+                </ul>
+            </div>
+        </section>
+        <section id="education">
+            <h2 onclick="toggleSection('educationContent')">Éducation</h2>
+            <div id="educationContent" class="collapsible">
+                <p><strong>Bachelor en Informatique</strong></p>
+                <p>Université de Technologie, 2012 - 2016</p>
+                <p>Diplômé avec mention, spécialisé en développement logiciel et structures de données.</p>
+            </div>
+        </section>
+        <section id="skills">
+            <h2 onclick="toggleSection('skillsContent')">Compétences</h2>
+            <div id="skillsContent" class="collapsible">
+                <ul>
+                    <li>Langages de Programmation: JavaScript, Python, Java, C++</li>
+                    <li>Technologies Web: HTML, CSS, React, Node.js</li>
+                    <li>Outils: Git, Docker, Jenkins, Visual Studio Code</li>
+                    <li>Compétences Interpersonnelles: Communication efficace, travail d'équipe, résolution de problèmes</li>
+                </ul>
+            </div>
+        </section>
+    </div>
+    <script src="scripts.js"></script>
+</body>
+</html>

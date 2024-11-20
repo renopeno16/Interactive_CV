@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Interactive CV real.props" />
+</Project>

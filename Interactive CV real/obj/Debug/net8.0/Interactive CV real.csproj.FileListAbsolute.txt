@@ -1,0 +1,29 @@
+C:\Users\renzo\source\repos\Interactive CV real\Interactive CV real\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\renzo\source\repos\Interactive CV real\Interactive CV real\bin\Debug\net8.0\appsettings.json
+C:\Users\renzo\source\repos\Interactive CV real\Interactive CV real\bin\Debug\net8.0\Interactive CV real.staticwebassets.endpoints.json
+C:\Users\renzo\source\repos\Interactive CV real\Interactive CV real\bin\Debug\net8.0\Interactive CV real.exe
+C:\Users\renzo\source\repos\Interactive CV real\Interactive CV real\bin\Debug\net8.0\Interactive CV real.deps.json
+C:\Users\renzo\source\repos\Interactive CV real\Interactive CV real\bin\Debug\net8.0\Interactive CV real.runtimeconfig.json
+C:\Users\renzo\source\repos\Interactive CV real\Interactive CV real\bin\Debug\net8.0\Interactive CV real.dll
+C:\Users\renzo\source\repos\Interactive CV real\Interactive CV real\bin\Debug\net8.0\Interactive CV real.pdb
+C:\Users\renzo\source\repos\Interactive CV real\Interactive CV real\obj\Debug\net8.0\Interactive CV real.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renzo\source\repos\Interactive CV real\Interactive CV real\obj\Debug\net8.0\Interactive CV real.AssemblyInfoInputs.cache
+C:\Users\renzo\source\repos\Interactive CV real\Interactive CV real\obj\Debug\net8.0\Interactive CV real.AssemblyInfo.cs
+C:\Users\renzo\source\repos\Interactive CV real\Interactive CV real\obj\Debug\net8.0\Interactive CV real.csproj.CoreCompileInputs.cache
+C:\Users\renzo\source\repos\Interactive CV real\Interactive CV real\obj\Debug\net8.0\Interactive CV real.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\renzo\source\repos\Interactive CV real\Interactive CV real\obj\Debug\net8.0\scopedcss\bundle\Interactive CV real.styles.css
+C:\Users\renzo\source\repos\Interactive CV real\Interactive CV real\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\renzo\source\repos\Interactive CV real\Interactive CV real\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\renzo\source\repos\Interactive CV real\Interactive CV real\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\renzo\source\repos\Interactive CV real\Interactive CV real\obj\Debug\net8.0\staticwebassets\msbuild.Interactive CV real.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\renzo\source\repos\Interactive CV real\Interactive CV real\obj\Debug\net8.0\staticwebassets\msbuild.Interactive CV real.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\renzo\source\repos\Interactive CV real\Interactive CV real\obj\Debug\net8.0\staticwebassets\msbuild.build.Interactive CV real.props
+C:\Users\renzo\source\repos\Interactive CV real\Interactive CV real\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Interactive CV real.props
+C:\Users\renzo\source\repos\Interactive CV real\Interactive CV real\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Interactive CV real.props
+C:\Users\renzo\source\repos\Interactive CV real\Interactive CV real\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\renzo\source\repos\Interactive CV real\Interactive CV real\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\renzo\source\repos\Interactive CV real\Interactive CV real\obj\Debug\net8.0\Interactive CV real.dll
+C:\Users\renzo\source\repos\Interactive CV real\Interactive CV real\obj\Debug\net8.0\refint\Interactive CV real.dll
+C:\Users\renzo\source\repos\Interactive CV real\Interactive CV real\obj\Debug\net8.0\Interactive CV real.pdb
+C:\Users\renzo\source\repos\Interactive CV real\Interactive CV real\obj\Debug\net8.0\Interactive CV real.genruntimeconfig.cache
+C:\Users\renzo\source\repos\Interactive CV real\Interactive CV real\obj\Debug\net8.0\ref\Interactive CV real.dll
